@@ -1,0 +1,6 @@
+1. Start the backend server first 
+2. Import attached table database in your local database
+3. Change the username and password according to your local mysql server
+4. install dependencies for backend and frontend
+5. run backend server - node/nodemon index.js
+6. run frontend npm start

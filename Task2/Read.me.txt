@@ -1,0 +1,6 @@
+
+1. First Start the SERVER by following command :
+
+                            python -m http.server
+2. Then Open index.html File in edge or any browser which have cors extension installed 
+
